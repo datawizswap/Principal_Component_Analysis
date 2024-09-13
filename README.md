@@ -1,5 +1,5 @@
 # PCA (Principal Component Analysis)
-####1. Data Preparation:
+#### 1. Data Preparation:
 Start with a dataset containing observations (data points) and features (variables). Ensure the data is clean, numeric, and free of missing values. Preprocessing steps such as normalization or standardization may be necessary, especially if the features are on different scales.
 
 #### 2. Purpose of PCA:
