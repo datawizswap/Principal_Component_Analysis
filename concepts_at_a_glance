@@ -1,4 +1,4 @@
-**PCA (Principal Component Analysis)
+PCA (Principal Component Analysis)
 1. Data Preparation:
 Start with a dataset containing observations (data points) and features (variables). Ensure the data is clean, numeric, and free of missing values.
 Preprocessing steps such as normalization or standardization may be necessary, especially if the features are on different scales.
@@ -64,4 +64,4 @@ informative features.
 13. Example Workflow:
 Load Data: Start with your dataset (ensure it's clean and numeric). Standardize the Data: Normalize or standardize to ensure that each feature contributes equally.
 Apply PCA: Calculate the principal components and transform the data. Choose Components: Select the number of components that explain most of the variance.
-Visualize/Interpret: Plot the principal components or use them in your analysis. **
+Visualize/Interpret: Plot the principal components or use them in your analysis.
